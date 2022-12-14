@@ -1,0 +1,20 @@
+.profile_aside{
+  position: relative;
+}
+.profile_aside_ul
+{
+  position: sticky;
+  top:20px;
+}
+.otp-field {
+  width: 38px;
+  margin-right: 10px;
+  padding-left: 13px;
+  height: 40px;
+}
+.rdw-image-wrapper{
+  display: none !important;
+}
+.password-icon{
+  height:fit-content;
+}
